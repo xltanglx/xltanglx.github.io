@@ -1,6 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://xltanglx.github.io/2022/08/05/Java%20%E8%99%9A%E6%8B%9F%E6%9C%BA/</loc>
+    <lastmod>2023-01-10</lastmod>
+  </url>
+  <url>
+    <loc>https://xltanglx.github.io/2022/08/19/Java%20%E5%B8%B8%E8%A7%81%E7%9A%84OOM%E6%95%85%E9%9A%9C/</loc>
+    <lastmod>2023-01-04</lastmod>
+  </url>
+  <url>
+    <loc>https://xltanglx.github.io/2022/08/14/JVM%20%E5%9E%83%E5%9C%BE%E6%94%B6%E9%9B%86%E5%99%A8/</loc>
+    <lastmod>2023-01-04</lastmod>
+  </url>
+  <url>
     <loc>https://xltanglx.github.io/2022/08/01/Java%E7%BA%BF%E7%A8%8B%E6%B1%A0/</loc>
     <lastmod>2023-01-03</lastmod>
   </url>
